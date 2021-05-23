@@ -22,7 +22,7 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
         
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-![%](5_star_%.png)        
+![5star](5_star_percent.png)        
 
 * 49% of 5 star reviews were vine and  41% were non-Vine
 
